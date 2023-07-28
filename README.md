@@ -1,19 +1,19 @@
 # WarehouseWreckage on UE5 Engine
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/N0Ic1vsD9KY/0.jpg)](https://www.youtube.com/watch?v=N0Ic1vsD9KY)
-Click the image for demo videos.
+Click the image to see further demo videos.
 
 ## Overview
 
-WarehouseWreckage is an exciting course project developed for the Udemy course "Unreal Engine 5 C++ Developer: Learn C++ & Make Video Games." The project focuses on implementing various gameplay mechanics and level design elements using Unreal Engine 5 (UE5) and C++ programming. By exploring fundamental concepts in game development, WarehouseWreckage aims to provide an interactive and educational experience for aspiring game developers.
+WarehouseWreckage is an exciting course project developed for the Udemy course "Unreal Engine 5 C++ Developer: Learn C++ & Make Video Games." The project focuses on implementing various gameplay mechanics and level design elements using Unreal Engine 5 (UE5). By exploring fundamental concepts in game development, WarehouseWreckage aims to provide an interactive and educational experience for aspiring game developers.
 
 ## Features
 
 1. **Playing with Physics:** In WarehouseWreckage, players can experience a physics-driven environment that adds a sense of realism and interactivity. The project utilizes UE5's powerful physics engine to create dynamic interactions between objects within the warehouse.
 
-2. **Spawning Projectiles:** Players have the ability to spawn and launch projectiles within the warehouse. By implementing projectile spawning mechanisms in C++, the game mechanics allow for a range of interactions and creative possibilities.
+2. **Spawning Projectiles:** Players have the ability to spawn and launch projectiles within the warehouse. By implementing projectile spawning mechanisms in the UE5's blueprint, the game mechanics allow for a range of interactions and creative possibilities.
 
-3. **Aiming the Projectiles:** Precise aiming is crucial for successful gameplay in WarehouseWreckage. Through C++ programming, players must master the art of aiming to hit targets accurately, adding a skill-based element to the game.
+3. **Aiming the Projectiles:** Precise aiming is crucial for successful gameplay in WarehouseWreckage. Through the UE5's blueprint, players must master the art of aiming to hit targets accurately, adding a skill-based element to the game.
 
 4. **Building a Level:** The project includes a custom level created within UE5. The level design showcases the potential of the engine and serves as an excellent example for understanding level design principles and workflows.
 
