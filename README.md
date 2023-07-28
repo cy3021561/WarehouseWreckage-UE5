@@ -1,6 +1,6 @@
 # WarehouseWreckage on UE5 Engine
 
-[![IMAGE ALT TEXT HERE](https://img.youtube/N0Ic1vsD9KY/0.jpg)](https://youtu.be/N0Ic1vsD9KY)  
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/N0Ic1vsD9KY/0.jpg)](https://www.youtube.com/watch?v=N0Ic1vsD9KY)
 ## Overview
 
 WarehouseWreckage is an exciting course project developed for the Udemy course "Unreal Engine 5 C++ Developer: Learn C++ & Make Video Games." The project focuses on implementing various gameplay mechanics and level design elements using Unreal Engine 5 (UE5) and C++ programming. By exploring fundamental concepts in game development, WarehouseWreckage aims to provide an interactive and educational experience for aspiring game developers.
